@@ -1,2 +1,2 @@
-# Calculadora
-Calculadora desenvolvido para estudo.
+# Calculadora Versão 1.0.
+Calculadora desenvolvido para estudo, utilizando interface gráfica com Swing.
